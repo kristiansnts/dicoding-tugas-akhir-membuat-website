@@ -137,13 +137,13 @@ aside .aside-article:nth-child(3){
     border-bottom: 1px solid rgba(255,255,255,0.3);
 }
 
-.post {
+article {
     display: flex;
     margin: 20px 0;
     cursor: pointer;
 }
 
-.post img {
+article img {
     width: 100px;
     max-height: 120px;
 }
